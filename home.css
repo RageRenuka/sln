@@ -1,0 +1,437 @@
+.w70-w {
+width: 70%;
+margin-left: 50px;
+
+
+}
+.w70-w a{
+    text-decoration: none;  
+    color: white;
+  
+}
+.w-30 {
+    width: 30%;
+    margin-left: 20px;
+   
+}
+.w-30 a{
+    text-decoration: none;
+    color: white;
+   
+}
+.display{
+    display: flex;
+    background-color: #112958;
+    color: white;
+    padding: 20px;
+   
+}
+.container180{
+    margin-left: 0px 5%;
+    background-color: white;
+    padding: 30px;
+
+}
+.displayflex{
+    display: flex;
+   
+}
+.width-30{
+    width: 30%;
+   
+    margin-top: 40px;
+}
+.width-50{
+    width: 50%;
+    display: flex;
+    margin-top: 20px;
+}
+.width-20{
+    width: 20%;
+    margin-left: 0px 5%;
+}
+.skillaniclog{
+    width: 90%;
+    height: 60px;
+
+}
+.menus{
+    list-style-type:none;
+    display: flex;
+    
+    font-size: 14px;
+}
+.menus a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+.talktour {
+    padding: 0px 30px ;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+}
+.bg-colour{
+    background-color: #112958;
+}
+.display1{
+    display: flex;
+}
+.width-60{
+    width: 60%;
+    border-left: #ff0000;
+}
+.width-40img{
+    width: 40%;
+    background-color: white;
+}
+.text-font{
+    font-size: 90px;
+    margin-left: 50px;
+    color: white;
+    border-left: 5px solid red;
+    padding-left: 20px;
+}
+.immageboy{
+    width: 100%;
+}
+.displayimge{
+    display: flex;
+}
+.container{
+    margin: 0 5%;
+}
+.width1-35{
+    width: 35%;
+}
+.width1-30{
+    width: 30%;
+}
+.img-1{
+    width: 80%;
+     margin-top: -350px;
+     height: 200px; 
+}
+.hr{
+    background:#ff0000(200, 200, 200, 0.1);
+    border-bottom: 5px solid #ff0000;
+    height: 1px;
+    width: 80%;
+    margin-right: 100px;
+}
+.width--30{
+    width: 50%;
+    margin-top: 30px;
+}
+.textabout{
+    margin-top: 40px;
+    color: #ff0000;
+    border-left: 5px solid red;
+    padding-left: 20px;
+}
+.skillanicfontsize{
+    color: #112958;
+    font-size: 30px;
+}
+.pargarphskillanic{
+    padding: 10px;
+    font-size: 20px;
+    color:dimgrey;
+    border-left: 5px solid red;
+    padding-left: 20px;
+    
+}
+.pargarphskillanic p{
+    
+    padding: 5px;
+    margin-top: 30px;
+
+}
+.width--70w1{
+    width: 70%;
+}
+.pargarphskillanic1{
+    padding: 10px;
+    font-size: 20px;
+    color:dimgrey;
+}
+.pargarphskillanic1 p{
+   
+    padding-left: 20px;
+    padding: 5px;
+
+}
+.skillanicfontsize1 h2{
+   
+    color: #ff0000;
+    border-left: 5px solid red;
+    padding-left:20px;
+
+}
+.skillanicfontsize1{
+    padding-left:35%;
+}.skillanicfontsize{
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+   }
+   .box a{
+    
+    -align: center;
+    color: #21a7d0;
+   }
+   .bsc{
+    text-align: center;
+    margin: -30px;
+    margin-top: 10px;
+    /* margin-bottom: 40px; */
+    /* margin: 30px; */
+   }
+   .img-box{
+    width: 90%;
+    height: 200px;
+    padding: 30px;
+
+   
+   }
+   .buttonreact{
+    padding: 20px 30px 10px 90px ;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    margin-left: 100px;
+    border-radius: 1px;
+    text-align: center  ;
+   }
+   
+ .display123{
+    display: flex;
+ }
+ .ww50w{
+    width: 50%;
+   }
+   .renuka{
+    width: 100%;
+   }
+   .imgbackground{
+    background-image: url("images/HD-wallpaper-the-cooper-institute-we-would-like-to-thank-the-city-of-dallas-our-sponsors-friends-family-for-an-incredible-evening-last-night-our-legacy-celebration-literally-lit-up-the.jpg");
+    background-size: cover;
+}
+.imgbackground{
+    height: 100%;
+    margin-top: -20px;
+    
+}
+.skillanicfontsize12{
+    color: #ff0000;
+    border-left: 5px solid red;
+    padding-left: 20px;
+}
+.padding{
+    font-size: 40px;
+   color: white;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: -40pxs;
+}
+.padding123{
+  
+width: 70px;
+height: 70px;
+background-color:#ff0000;
+color:white;
+margin: 10px;
+border-radius: 40px;
+text-align: center;
+margin-bottom: 30px;
+margin-left: 50px;
+
+}
+.textalineceneter1{
+    text-align: center;
+    padding: 25px;
+}
+.paddingtext{
+   height: 180px;
+   width: 150px;
+   margin: 10px;
+background-color:beige;
+
+
+}
+.paddingtext1{
+    height: 250px;
+    width: 150px;
+    margin: 10px;
+ background-color:beige;
+}
+.paddingtext2{
+    height: 200px;
+    width: 150px;
+    margin: 10px;
+ background-color:beige;
+}
+
+ .bottom{
+    padding: 100px 30px;
+    text-align:end;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+.displayflex1234{
+    display: flex;
+}
+.imgbackground1{
+    background-image: url("images/programming-background-collage_23-2149901782.avif");
+    background-size: cover;
+
+   /* padding:40px; */
+   height: 60%;
+   width: 100%;
+  
+}
+.img-bg-colour{
+    background-color:black;
+    opacity: 0.5;
+    
+}
+.font-size-text {
+ 
+ text-align: center;
+ color: white;
+}
+.font-size-text h1 {
+    font-size: 40px;
+}
+.font-size-text h3 {
+    
+    margin-top: -10px;
+}
+.buttonreact123{
+    padding: 20px 40px ;
+    background-color:red;
+    color: white;
+}
+.buttonreact123:hover{
+    
+    background-color:aliceblue;
+    color: black;
+}
+.skillanicfontsize101 h4{
+    color: #ff0000;
+    border-left: 5px solid red;
+    padding-left:20px;
+    
+    /* margin-top: 40px; */
+}
+.skillanicfontsize101{
+    padding-left:35%;
+    margin-top: 40px;
+}
+.width-60{
+    width: 60%;
+    margin-bottom:  20px;
+}
+.width-40{
+    width: 40%;
+    margin-bottom:  20px;
+}
+.qustions h4{
+    background-color:#112958;
+    padding: 20px;
+    color:white;
+   
+   }
+   .qustions h4:hover{
+    background-color:#ff0000;
+    padding: 20px;
+    color:white;
+   }
+   .width-70-1{
+    width: 70%;
+   }
+   .width-30-1
+   {
+    width: 30%;
+
+   }
+   .mobilenum h1{
+    font-size: 30px;
+    margin-left: 30px;
+   }
+   .mobilenum b{
+    color: #ff0000;
+   }
+  
+
+   .links{
+    margin-bottom: 40px;
+    margin-left: 150px;
+    height: 50%;
+    width: 50%;
+   }
+   .links:hover{
+    background-color: #112958;
+    color: white;
+   }
+  .width--50{
+    width: 50%;
+  }
+  .width--25{
+    width: 25%;
+  }
+  .logopng{
+    width: 100%;
+  }
+  .bg-footer{
+    background-color: #112958;
+  }
+  .text-white{
+    color: white;
+  }
+  .textabout h1{
+   color: white;
+  }
+  .displaymon{
+    display: flex;
+    color: white;
+  }
+  .textaline-end{
+    margin-left: 380px;
+  }
+  .colout{
+    color:#ff0000
+  }
+  .textabout190{
+    margin-top: 40px;
+    color:white;
+    border-left: 5px solid red;
+    padding-left: 20px;
+  }
+  /* .bodercollaps {
+     list-style-type: disc;
+  } */
+  .maindiv{
+    margin-left: 20px;
+   
+  }
+  .maindiv a{
+    color: white;
+    text-decoration: none;
+  }
+  .colour-text67{
+    color: white;
+  }
+  .numcolour{
+    color: #ff0000;
+  }
+  .bodermargin{
+    border-left: 1px solid;
+    padding-left: 10px;
+  }
+  
